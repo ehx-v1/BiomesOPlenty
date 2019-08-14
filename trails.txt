@@ -142,6 +142,9 @@ fc363256-d8bd-44cd-a316-7aaf399ea9b8:donator_trail
 //Truth_Seeker
 196826a5-9e07-4d7f-9ac2-53100048a454:donator_trail
 
+//gameridian
+25a9a487-a415-4f14-a3ce-ca58b819c693:donator_trail
+
 //Patreon - False Pledges
 //revstrom
 //adencraft2000
