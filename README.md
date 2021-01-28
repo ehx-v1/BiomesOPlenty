@@ -12,6 +12,6 @@
 
 -----------------
 
- [<img src="http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png">](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.en_US)
+ [<img src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png">](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US)
 
 Biomes O' Plenty was meant to be licensed under a [Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.en_US). However, since NoDerivs is unconditionally invalid for game modifications, the actual license becomes [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 Unported](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US) instead.
